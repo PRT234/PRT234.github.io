@@ -86,7 +86,7 @@ p {
 }
 
 .links a:hover {
-    background-color: #c7ada7;
+    background-color: #c7ada7bf;
 }
 
 @media (max-width: 600px) {
