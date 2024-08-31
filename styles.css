@@ -87,6 +87,7 @@ p {
 
 .links a:hover {
     background-color: #c7ada7bf;
+    transform: scale(1.1);
 }
 
 @media (max-width: 600px) {
@@ -96,10 +97,12 @@ p {
     }
 
     h1 {
-        font-size: 20px;
+        font-size: 30px;
+        font-weight: bolder;
     }
 
     .links a {
-        font-size: 16px;
+        font-size: 20px;
+        font-weight: 500;
     }
 }
